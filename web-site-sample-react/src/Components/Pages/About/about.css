@@ -1,0 +1,14 @@
+
+
+.container-about ul {
+    background-color: white;
+
+}
+.container-about p {
+    text-align: justify;
+}
+
+img {
+    width: 80%;
+    margin-left: 60px;
+}

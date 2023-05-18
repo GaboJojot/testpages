@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Incoterms",
+    "content": "Los incoterms (palabra derivada del sigloide en lengua inglesa international commercial terms, que se traduce al español como «términos de comercio internacional») son términos, de tres letras cada uno, que reflejan las normas de aceptación voluntaria por las partes en un contrato de compraventa internacional de mercancías acerca de las condiciones de entrega de las mercancías. Se usan para aclarar los costes de las transacciones comerciales internacionales, delimitando las responsabilidades entre el comprador y el vendedor, y reflejan la práctica actual en el transporte internacional de mercancías. ",
+    "img": "pexels-pixabay-262353.png",
+    "author": "Wiki",
+    "year": "2023"
+  },
+  {
+    "id": 2,
+    "title": "Aduana",
+    "content": "La aduana es una oficina pública gubernamental, aparte de ser una constitución fiscal, situada en puntos estratégicos. Estos puntos estratégicos son, por lo general, costas, fronteras, terminales internacionales de transporte de mercancía como aeropuertos o terminales ferroviarios. Esta oficina está encargada de controlar las operaciones de comercio exterior, con el objetivo de registrar el tráfico internacional de mercancías que se importen y exporten desde un país extranjero y cobrar los impuestos establecidos por ley.",
+    "img": "pexels-chanaka-906494.png",
+    "author": "Wiki",
+    "year": "2023"
+  }
+]

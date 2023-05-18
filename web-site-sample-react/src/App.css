@@ -1,0 +1,77 @@
+.container {
+  display: inline-block;
+  justify-content: center;
+
+  position: relative;
+}
+ul li {
+  list-style: none;
+}
+
+.container form input,
+textarea {
+  display: block;
+
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+img {
+  border-radius: 12px;
+}
+
+p {
+  text-align: justify;
+}
+
+.container button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  display: inline-block;
+  font-size: 18px;
+  margin: 10px;
+  margin-left: 38px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 80%;
+    margin: 15px;
+    padding: 1px;
+  }
+
+  .container-article img {
+    width: 90%;
+    margin-left: 1px;
+  }
+
+  .container button {
+    background-color: #4caf50; /* Green */
+    border: none;
+    border-radius: 11px;
+    color: white;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 38px;
+
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .container-task-list {
+    font-size: 13px;
+  }
+
+  form input,
+  textarea, button {
+    font-size: 13px;
+   
+  }
+}
