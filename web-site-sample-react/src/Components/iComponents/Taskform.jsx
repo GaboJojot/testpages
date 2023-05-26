@@ -27,7 +27,7 @@ export const Taskform = ({ createTask }) => {
         onChange={(e) => setDescription(e.target.value)}
       ></textarea>
       <button>
-       agregar tarea <span></span>
+       Agregar tarea <span></span>
         <TfiArrowUp/>
       </button>
     </form>
