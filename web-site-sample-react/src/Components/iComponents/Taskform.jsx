@@ -14,6 +14,8 @@ export const Taskform = ({ createTask }) => {
     });
 
     form.current.reset();
+    setTitle("");
+    setDescription("");
   };
   return (
     <form ref={form} onSubmit={handleSubmit}>
