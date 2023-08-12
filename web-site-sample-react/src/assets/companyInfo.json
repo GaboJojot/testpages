@@ -1,9 +1,9 @@
 {
     "name" : "Company Example Name",
     "description" : "Pyme dedicada a la búsqueda de información relevante para todos aquellos itneresados en el Comerxio Internacional Argentino.",
-    "adress" : "Avenida Argentina 1523",
-    "city" : "Iguazú, Misiones, Argentina.",
+    "adress" : "Avenida ejemplo 1523",
+    "city" : "Argentina.",
     "Language" : "Spanish",
-    "email" : "modelo-agro-argentino@argentinasiexporta.com",
+    "email" : "ejemplo@ejemplo",
     "phone" : "555-2558-5555"
 }
